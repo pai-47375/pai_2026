@@ -1,7 +1,0 @@
-このファイルは削除してから、Google Driveの pai_final/ にある次のファイルをこのフォルダに入れてください。
-- results.jsonl（全75エピソード分）
-- decompositions.json
-- llm_prompt.json
-- summary_overall.csv / summary_by_task.csv / paired_comparison.csv / summary_tasks_0_1_7.csv
-- comparison.png
-（grounded_decompositions.json は同梱済み）
