@@ -1,0 +1,5 @@
+condition,n,success_rate,mean_progress,mean_steps
+baseline,20,0.5,0.575,393.7
+llm_decomp,20,0.05,0.05,506.1
+skill_grounded,20,0.05,0.15,506.05
+oracle_grounded,15,0.0,0.1,520.0

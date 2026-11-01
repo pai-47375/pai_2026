@@ -1,0 +1,42 @@
+{
+ "0": {
+  "task": "put both the alphabet soup and the tomato sauce in the basket",
+  "raw_output": "[\"put the alphabet soup in the basket\", \"put the tomato sauce in the basket\"]",
+  "subtasks": [
+   "put the alphabet soup in the basket",
+   "put the tomato sauce in the basket"
+  ],
+  "parse_ok": true,
+  "llm": "Qwen/Qwen2.5-1.5B-Instruct"
+ },
+ "1": {
+  "task": "put both the cream cheese box and the butter in the basket",
+  "raw_output": "[\"put the cream cheese box in the basket\", \"put the butter in the basket\"]",
+  "subtasks": [
+   "put the cream cheese box in the basket",
+   "put the butter in the basket"
+  ],
+  "parse_ok": true,
+  "llm": "Qwen/Qwen2.5-1.5B-Instruct"
+ },
+ "4": {
+  "task": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+  "raw_output": "[\"put the white mug on the left plate\", \"put the yellow and white mug on the right plate\"]",
+  "subtasks": [
+   "put the white mug on the left plate",
+   "put the yellow and white mug on the right plate"
+  ],
+  "parse_ok": true,
+  "llm": "Qwen/Qwen2.5-1.5B-Instruct"
+ },
+ "7": {
+  "task": "put both the alphabet soup and the cream cheese box in the basket",
+  "raw_output": "[\"put the alphabet soup in the basket\", \"put the cream cheese box in the basket\"]",
+  "subtasks": [
+   "put the alphabet soup in the basket",
+   "put the cream cheese box in the basket"
+  ],
+  "parse_ok": true,
+  "llm": "Qwen/Qwen2.5-1.5B-Instruct"
+ }
+}
