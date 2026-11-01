@@ -1,0 +1,94 @@
+{
+ "0": {
+  "task": "put both the alphabet soup and the tomato sauce in the basket",
+  "steps": [
+   {
+    "step": "put the alphabet soup in the basket",
+    "raw": "1",
+    "index": 1,
+    "grounded": "pick up the alphabet soup and place it in the basket",
+    "matched": true
+   },
+   {
+    "step": "put the tomato sauce in the basket",
+    "raw": "11",
+    "index": 11,
+    "grounded": "open the middle drawer of the cabinet",
+    "matched": true
+   }
+  ],
+  "subtasks": [
+   "pick up the alphabet soup and place it in the basket",
+   "open the middle drawer of the cabinet"
+  ]
+ },
+ "1": {
+  "task": "put both the cream cheese box and the butter in the basket",
+  "steps": [
+   {
+    "step": "put the cream cheese box in the basket",
+    "raw": "1",
+    "index": 1,
+    "grounded": "pick up the alphabet soup and place it in the basket",
+    "matched": true
+   },
+   {
+    "step": "put the butter in the basket",
+    "raw": "7",
+    "index": 7,
+    "grounded": "pick up the butter and place it in the basket",
+    "matched": true
+   }
+  ],
+  "subtasks": [
+   "pick up the alphabet soup and place it in the basket",
+   "pick up the butter and place it in the basket"
+  ]
+ },
+ "4": {
+  "task": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+  "steps": [
+   {
+    "step": "put the white mug on the left plate",
+    "raw": "0",
+    "index": 0,
+    "grounded": "put the white mug on the left plate",
+    "matched": false
+   },
+   {
+    "step": "put the yellow and white mug on the right plate",
+    "raw": "0",
+    "index": 0,
+    "grounded": "put the yellow and white mug on the right plate",
+    "matched": false
+   }
+  ],
+  "subtasks": [
+   "put the white mug on the left plate",
+   "put the yellow and white mug on the right plate"
+  ]
+ },
+ "7": {
+  "task": "put both the alphabet soup and the cream cheese box in the basket",
+  "steps": [
+   {
+    "step": "put the alphabet soup in the basket",
+    "raw": "1",
+    "index": 1,
+    "grounded": "pick up the alphabet soup and place it in the basket",
+    "matched": true
+   },
+   {
+    "step": "put the cream cheese box in the basket",
+    "raw": "1",
+    "index": 1,
+    "grounded": "pick up the alphabet soup and place it in the basket",
+    "matched": true
+   }
+  ],
+  "subtasks": [
+   "pick up the alphabet soup and place it in the basket",
+   "pick up the alphabet soup and place it in the basket"
+  ]
+ }
+}
